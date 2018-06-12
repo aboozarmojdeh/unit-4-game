@@ -1,0 +1,13 @@
+
+body {
+    background-image: url("../images/background.jpg");
+    margin:0;
+    padding:0;
+}
+
+
+.jumbotron{
+    
+    background:none;
+    padding-top:1rem;
+    }
